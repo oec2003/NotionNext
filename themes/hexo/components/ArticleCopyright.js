@@ -36,12 +36,7 @@ export default function ArticleCopyright () {
           {locale.COMMON.COPYRIGHT_NOTICE}
         </li>
       </ul>
-
-      <div>
-      <img alt="Hexo" src="https://oec2003-blog.oss-cn-shanghai.aliyuncs.com/imgs/202301142059477.webp" className='wechatinfo'/>
-      </div>
     </section>
    
-
   );
 }
