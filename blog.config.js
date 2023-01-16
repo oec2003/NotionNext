@@ -12,7 +12,7 @@ const BLOG = {
 
   AUTHOR: 'oec2003', // 作者
   BIO: '临渊羡鱼，不如退而结网', // 作者简介
-  LINK: 'https://fengg.me', // 网站地址
+  LINK: 'https://fwhyy.com', // 网站地址
   KEYWORDS: '编程,跑步,健身,分布式,微服务,架构,C#,.NET Core,Golang,Java,个人成长 ', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'oec2003@gmail.com', // 邮箱
